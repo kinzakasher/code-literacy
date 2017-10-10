@@ -1,2 +1,1 @@
-# ideal-doodle
-Week1-Week3 assignments
+Code Literacy Weekly Assignments
